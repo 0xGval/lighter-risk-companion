@@ -27,7 +27,8 @@ A professional risk management calculator for [Lighter](https://lighter.xyz) tra
 
 ## Screenshots
 
-![Lighter Risk Companion](https://via.placeholder.com/800x400/1d1d1f/ffffff?text=Lighter+Risk+Companion)
+<img width="1473" height="978" alt="image" src="https://github.com/user-attachments/assets/7d5ed2d1-4f61-4400-9d16-657f45458dda" />
+
 
 ## Getting Started
 
